@@ -1,4 +1,4 @@
 # project-spiking-repo
 
-#Useful spiking links  
+Useful spiking links  
 Links and descriptions below here: 

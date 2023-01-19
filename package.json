@@ -1,0 +1,20 @@
+{
+  "name": "project-spiking-repo",
+  "version": "1.0.0",
+  "description": "Links and descriptions below here:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tsien01/project-spiking-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tsien01/project-spiking-repo/issues"
+  },
+  "homepage": "https://github.com/Tsien01/project-spiking-repo#readme"
+}
