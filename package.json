@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Tsien01/project-spiking-repo/issues"
   },
-  "homepage": "https://github.com/Tsien01/project-spiking-repo#readme"
+  "homepage": "https://github.com/Tsien01/project-spiking-repo#readme",
+  "dependencies": {
+    "svelte": "^3.55.1",
+    "typescript": "^4.9.4"
+  }
 }
