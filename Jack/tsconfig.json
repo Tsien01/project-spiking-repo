@@ -1,3 +1,4 @@
+//running tsc directly ignores tsconfig.json, so use npx tsc instead
 {
     "compilerOptions": {
         "target": "ES2015", 
@@ -5,5 +6,7 @@
         "sourceMap": true,
         "noImplicitAny": true, 
         "strictNullChecks": true, 
+        "esModuleInterop": true, //allows for the use of import...from syntax, which TS prefers
+        "allowSyntheticDefaultImports": true, //https://stackoverflow.com/questions/56238356/understanding-esmoduleinterop-in-tsconfig-file for detailed explanation
     }
 }

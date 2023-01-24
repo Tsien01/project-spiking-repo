@@ -16,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/Tsien01/project-spiking-repo/issues"
   },
-  "homepage": "https://github.com/Tsien01/project-spiking-repo#readme"
+  "homepage": "https://github.com/Tsien01/project-spiking-repo#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.15",
+    "@types/node": "^16.18.11",
+    "ts-node": "^10.9.1"
+  }
 }
